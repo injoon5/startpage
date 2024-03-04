@@ -1,6 +1,6 @@
 {
     "apps" : [
-        {"name":"Homepage","url":"injoon5.com","icon":"house", "target": "_blank"},
+        {"name":"Homepage","url":"injoon5.com","icon":"home", "target": "_blank"},
         {"name":"Personal Knowledge Management","url":"pkm.injoon5.com","icon":"book"},
         {"name":"URL Shortener","url":"s.injoon5.com","icon":"link"},
     ]
